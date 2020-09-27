@@ -22,4 +22,4 @@ $
 
 😉
 
-For more details, see [How to show current git branch with colors in Bash prompt](https://medium.com/@thucnc/how-to-show-current-git-branch-with-colors-in-bash-prompt-380d05a24745
+For more details, see [How to show current git branch with colors in Bash prompt](https://medium.com/@thucnc/how-to-show-current-git-branch-with-colors-in-bash-prompt-380d05a24745)

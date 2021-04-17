@@ -1,0 +1,50 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "java.semanticHighlighting.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnPaste": true,
+    "terminal.integrated.shell.windows": "C:\\Users\\tpenhape\\AppData\\Local\\Programs\\Git\\bin\\bash.exe",
+    "java.home": "C:\\PortableApps\\PortableNetbeans\\jdks\\jdk11",
+    "java.help.firstView": "gettingStarted",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "rsp-ui.enableStartServerOnActivation": [
+        {
+            "id": "redhat.vscode-community-server-connector",
+            "name": "Community Server Connector",
+            "startOnActivation": true
+        },
+        {
+            "id": "redhat.vscode-server-connector",
+            "name": "Red Hat Server Connector",
+            "startOnActivation": true
+        }
+    ],
+    "java.project.importHint": false,
+    "explorer.confirmDelete": false,
+    "sonarlint.rules": {
+        "Web:TableWithoutCaptionCheck": {
+            "level": "off"
+        },
+        "Web:TableHeaderHasIdOrScopeCheck": {
+            "level": "off"
+        },
+        "Web:AvoidCommentedOutCodeCheck": {
+            "level": "off"
+        }
+    },
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "editor.detectIndentation": false,
+    "microprofile.alwaysShowOverview": false,
+    "redhat.telemetry.enabled": false,
+    "terminal.integrated.automationShell.linux": ""
+}

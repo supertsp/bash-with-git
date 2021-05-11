@@ -10,7 +10,7 @@ parse_git_branch() {
 }
 
 if [ "$color_prompt" = yes ]; 
-    PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w \[\e[91m\]$(parse_git_branch)\n\[\e[00m\]$ '
+    PS1='\n${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]: \[\033[01;34m\]\w \[\e[91m\]$(parse_git_branch)\n\[\e[00m\]$ '
 ```
 
 Then your terminal will look like this:

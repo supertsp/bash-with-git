@@ -16,7 +16,7 @@ if [ "$color_prompt" = yes ];
 Then your terminal will look like this:
 
 ```sh
-user@host:/folder (branch)
+user@host: /folder (branch)
 $
 ```
 
